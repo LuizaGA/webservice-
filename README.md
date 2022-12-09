@@ -34,7 +34,7 @@ npm run dev
 O projeto do backend ficará disponível na porta ``http://localhost:5000``
 
 
-Para utilizar o frontend, entre na pasta dele com o comando:
+Para utilizar o frontend, com o backend rodando, entre na pasta do front com o comando:
 
 ```
 cd front
@@ -52,5 +52,5 @@ Para rodar no seu localhost utilize no terminal:
 npm start
 ```
 
-O projeto do frontend ficará disponível na porta ``http://localhost:3000/``
+O projeto do frontend ficará disponível na porta ``http://localhost:3000/`` se a mesma estiver disponível
 
