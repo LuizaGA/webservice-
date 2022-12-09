@@ -12,8 +12,13 @@ Primeiro, clone esse repositório, usando o comando:
 ```
 git clone https://github.com/LuizaGA/webservice-.git
 ```
+Depois entre na pasta do projeto com o comando:
 
-Entrar na pasta do backend utilizando o comando:
+```
+cd webservice-
+```
+
+Para entrar na pasta do backend utilizando o comando:
 
 ```
 cd convertor
